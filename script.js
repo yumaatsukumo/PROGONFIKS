@@ -4,6 +4,7 @@
 
 /* ── Film Data ────────────────────────────────────────────── */
 const MOVIES = [ 
+     { id: 1, title: "xhuxhi i shtate", genre: "komedi aventur",  badge: "HD", poster: "https://m.media-amazon.com/images/I/91o6l58vGhL._AC_UF894,1000_QL80_.jpg", link: "https://playmogo.com/e/gmn82yo0567c" },
      { id: 1, title: "THOR", genre: "",  badge: "HD", poster: "", link: "https://playmogo.com/e/90v20cakyr0u" },
      { id: 1, title: "101 Dalmatet", genre: "",  badge: "HD", poster: "", link: "https://playmogo.com/e/tehfj80tbj2z" },
      { id: 1, title: "skubi dhe batman", genre: "",  badge: "HD", poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsYp41EwC26XoZaN4iBpiFozuNJDecBzmGZs1NDKFnvw&s", link: "https://playmogo.com/e/vxtq4lfe98y1" },
