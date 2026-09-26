@@ -4,6 +4,7 @@
 
 /* ── Film Data ────────────────────────────────────────────── */
 const MOVIES = [ 
+     { id: 1, title: "loja me re ", genre: "funn",  badge: "HD", poster: "https://cdn.beacons.ai/user_content/dSip6zLoXifRmvnZMDMZRKWwPGq1/referenced_images/2b3deebc-8f9b-4a0a-bfb1-555e56e42e45__link-in-bio__links-block__home__cefbbe7f-c97f-4ab2-b478-d442f1d592e1__acdc6494-3757-42d7-be10-e7802f07c759__9269b76b-eb21-408c-9ffd-11412d0bf5cb.webp?t=1790430016054", link: "https://pyetjeapodenim.netlify.app/" },
      { id: 1, title: "xhuxhi i shtate", genre: "komedi aventur",  badge: "HD", poster: "https://m.media-amazon.com/images/I/91o6l58vGhL._AC_UF894,1000_QL80_.jpg", link: "https://playmogo.com/e/gmn82yo0567c" },
      { id: 1, title: "THOR", genre: "",  badge: "HD", poster: "", link: "https://playmogo.com/e/90v20cakyr0u" },
      { id: 1, title: "101 Dalmatet", genre: "",  badge: "HD", poster: "", link: "https://playmogo.com/e/tehfj80tbj2z" },
