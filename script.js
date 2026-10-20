@@ -4,6 +4,8 @@
 
 /* ── Film Data ────────────────────────────────────────────── */
 const MOVIES = [ 
+     { id: 1, title: "lufta e dragoit 1", genre: "",  badge: "HD", poster: "https://play-lh.googleusercontent.com/bwRGmsG7I4MagUrq2fsNk7IADI0qwein7tQX6Dsbppp_FBRpfpWdW1bh60FURf4B3Os2A0kbc9Ne8xUr-Q", link: "https://playmogo.com/e/z9b4bzvqkhwh" },
+     { id: 1, title: "lufta e dragoit 2", genre: "",  badge: "HD", poster: "https://canvas-lb.tubitv.com/opts/P5kMgRZIspTajA==/d52a0965-058b-42e0-b104-605093e9b6b6/CPwDEJ0COgUxLjEuOQ==", link: "https://playmogo.com/d/nqd8anascwd8" },
       { id: 23, title: "Njeriu merimang 2", year: 2004, rating: "N/A", genre: "Action/Sci-Fi", duration: "2h 7m", badge: "HD", poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Cy5Z1DfzVg_x3hysgZPHm5TOAQLOVicEvVZTZDAEdIUslMvNUdsCJO7YaomEp5s48f8&usqp=CAU", link: "https://myvidplay.com/e/ahkx4pmt6ms0" },
   { id: 24, title: "Njeriu merimang ne nje univers tjeter", year: 2023, rating: "N/A", genre: "Animation/Action", duration: "2h 20m", badge: "HD", poster: "https://www.thebanner.org/sites/default/files/styles/article_detail_header/public/2023-08/MM-1192%20%20Spiderman%20Across%20the%20Spider%20Verse.png?itok=uRWY1BBg", link: "https://playmogo.com/e/qim88voonilq" },
      { id: 1, title: "loja me re ", genre: "funn",  badge: "HD", poster: "https://cdn.beacons.ai/user_content/dSip6zLoXifRmvnZMDMZRKWwPGq1/referenced_images/2b3deebc-8f9b-4a0a-bfb1-555e56e42e45__link-in-bio__links-block__home__cefbbe7f-c97f-4ab2-b478-d442f1d592e1__acdc6494-3757-42d7-be10-e7802f07c759__9269b76b-eb21-408c-9ffd-11412d0bf5cb.webp?t=1790430016054", link: "https://pyetjeapodenim.netlify.app/" },
