@@ -4,6 +4,7 @@
 
 /* ── Film Data ────────────────────────────────────────────── */
 const MOVIES = [ 
+     { id: 1, title: "Herkuli", genre: "",  badge: "HD", poster: "https://openair.al/wp-content/uploads/2024/07/Herkuli-OpenAir-Tirana.jpg", link: "https://playmogo.com/e/swek29vck6yl" },
      { id: 1, title: "lufta e dragoit 1", genre: "",  badge: "HD", poster: "https://play-lh.googleusercontent.com/bwRGmsG7I4MagUrq2fsNk7IADI0qwein7tQX6Dsbppp_FBRpfpWdW1bh60FURf4B3Os2A0kbc9Ne8xUr-Q", link: "https://playmogo.com/e/z9b4bzvqkhwh" },
      { id: 1, title: "lufta e dragoit 2", genre: "",  badge: "HD", poster: "https://canvas-lb.tubitv.com/opts/P5kMgRZIspTajA==/d52a0965-058b-42e0-b104-605093e9b6b6/CPwDEJ0COgUxLjEuOQ==", link: "https://playmogo.com/d/nqd8anascwd8" },
       { id: 23, title: "Njeriu merimang 2", year: 2004, rating: "N/A", genre: "Action/Sci-Fi", duration: "2h 7m", badge: "HD", poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Cy5Z1DfzVg_x3hysgZPHm5TOAQLOVicEvVZTZDAEdIUslMvNUdsCJO7YaomEp5s48f8&usqp=CAU", link: "https://myvidplay.com/e/ahkx4pmt6ms0" },
