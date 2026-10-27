@@ -4,6 +4,7 @@
 
 /* ── Film Data ────────────────────────────────────────────── */
 const MOVIES = [ 
+     { id: 73, title: "Ferdinandi", year: 2017, rating: "N/A", genre: "Animation/Comedy", duration: "1h 48m", badge: "HD", poster: "https://m.media-amazon.com/images/I/71dNGAcNWwL._UF894,1000_QL80_.jpg", link: "https://playmogo.com/e/kakr55dbrlk6" },
      { id: 1, title: "Herkuli", genre: "",  badge: "HD", poster: "https://openair.al/wp-content/uploads/2024/07/Herkuli-OpenAir-Tirana.jpg", link: "https://playmogo.com/e/swek29vck6yl" },
      { id: 1, title: "lufta e dragoit 1", genre: "",  badge: "HD", poster: "https://play-lh.googleusercontent.com/bwRGmsG7I4MagUrq2fsNk7IADI0qwein7tQX6Dsbppp_FBRpfpWdW1bh60FURf4B3Os2A0kbc9Ne8xUr-Q", link: "https://playmogo.com/e/z9b4bzvqkhwh" },
      { id: 1, title: "lufta e dragoit 2", genre: "",  badge: "HD", poster: "https://canvas-lb.tubitv.com/opts/P5kMgRZIspTajA==/d52a0965-058b-42e0-b104-605093e9b6b6/CPwDEJ0COgUxLjEuOQ==", link: "https://playmogo.com/d/nqd8anascwd8" },
@@ -113,7 +114,6 @@ const MOVIES = [
   { id: 70, title: "Rapanzell", year: 2010, rating: "N/A", genre: "Animation/Adventure", duration: "1h 40m", badge: "HD", poster: "https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/rapanzell-2010-albanian-dubs-2_3.jpg", link: "https://dsvplay.com/e/94gmh2izbhiw" },
   { id: 71, title: "6 heronjte", year: 2014, rating: "N/A", genre: "Animation/Action", duration: "1h 42m", badge: "HD", poster: "https://static.thcdn.com/images/large/original//productimg/1600/1600/11077390-2314815255034716.jpg", link: "https://dsvplay.com/e/bssks8urwof2" },
   { id: 72, title: "Shtegetimi", year: 2023, rating: "N/A", genre: "Animation/Adventure", duration: "1h 31m", badge: "HD", poster: "https://image.tmdb.org/t/p/original/zjVtuOHOGdIG0MQmvDysEZa8qAx.jpg", link: "https://dsvplay.com/d/7c80m3frp3fn" },
-  { id: 73, title: "Ferdinandi", year: 2017, rating: "N/A", genre: "Animation/Comedy", duration: "1h 48m", badge: "HD", poster: "https://m.media-amazon.com/images/I/71dNGAcNWwL._UF894,1000_QL80_.jpg", link: "https://dsvplay.com/e/kakr55dbrlk6" },
   { id: 74, title: "legjenda e korres", year: "N/A", rating: "N/A", genre: "Animation/Action", duration: "N/A", badge: "HD", poster: "https://www.platinumgames.com/wp-content/uploads/2016/03/kryvisual_LoK.jpg", link: "https://progon.godaddysites.com/legjenda-e-korres" },
   { id: 75, title: "Moana", year: 2016, rating: "N/A", genre: "Animation/Adventure", duration: "1h 47m", badge: "HD", poster: "https://snworksceo.imgix.net/cds/f4f2ba30-5e1e-4273-8360-d79a3012d12a.sized-1000x1000.jpg?w=1000&dpr=2", link: "https://dsvplay.com/d/f6w3gxx20frw" },
   { id: 76, title: "Skubi du dhe artefaktet magjike", year: "N/A", rating: "N/A", genre: "Animation/Mystery", duration: "N/A", badge: "HD", poster: "https://i.ytimg.com/vi/P2swLZUrUjg/maxresdefault.jpg", link: "https://dsvplay.com/e/iwn61mt60mf1" },
