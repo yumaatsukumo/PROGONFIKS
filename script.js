@@ -4,6 +4,7 @@
 
 /* ── Film Data ────────────────────────────────────────────── */
 const MOVIES = [ 
+     { id: 1, title: "kung fu panda", genre: "komedi ",  badge: "HD", poster: "https://resizing.flixster.com/bUHfz6f5Jl-STdX8vdyauuFMIfY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwMzUyZGMxLTViMjAtNDM5MS04YjhmLTRlNzU1YWNlMzViZS53ZWJw", link: "https://playmogo.com/e/xl2f6ejkngh0" },
      { id: 73, title: "Ferdinandi", year: 2017, rating: "N/A", genre: "Animation/Comedy", duration: "1h 48m", badge: "HD", poster: "https://m.media-amazon.com/images/I/71dNGAcNWwL._UF894,1000_QL80_.jpg", link: "https://playmogo.com/e/kakr55dbrlk6" },
      { id: 1, title: "Herkuli", genre: "",  badge: "HD", poster: "https://openair.al/wp-content/uploads/2024/07/Herkuli-OpenAir-Tirana.jpg", link: "https://playmogo.com/e/swek29vck6yl" },
      { id: 1, title: "lufta e dragoit 1", genre: "",  badge: "HD", poster: "https://play-lh.googleusercontent.com/bwRGmsG7I4MagUrq2fsNk7IADI0qwein7tQX6Dsbppp_FBRpfpWdW1bh60FURf4B3Os2A0kbc9Ne8xUr-Q", link: "https://playmogo.com/e/z9b4bzvqkhwh" },
